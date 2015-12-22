@@ -1,0 +1,14 @@
+data/src/main/webapp/create.xhtml.i
+data/src/main/resources/META-INF/persistence.xml.i
+data/src/main/java/com/hascode/tutorial/jee6/blog/ejb/BlogEntryEJB.java.i
+data/src/main/webapp/WEB-INF/beans.xml.i
+data/pom.xml.i
+data/src/main/webapp/WEB-INF/web.xml.i
+data/src/main/java/com/hascode/tutorial/jee6/blog/entity/BlogEntry.java.i
+data/src/main/webapp/list.xhtml.i
+data/src/main/webapp/image/logo.png.i
+data/src/main/webapp/css/style.css.i
+data/src/main/webapp/_decorator.xhtml.i
+data/src/main/java/com/hascode/tutorial/jee6/blog/controller/BlogEntryBean.java.i
+data/src/main/resources/com/hascode/tutorial/jee6/blog/messages.properties.i
+data/src/main/webapp/WEB-INF/faces-config.xml.i
